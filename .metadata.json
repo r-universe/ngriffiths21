@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "groupr",
+    "oncran": true
+  }
+]
